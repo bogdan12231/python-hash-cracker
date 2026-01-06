@@ -9,6 +9,9 @@ To perform a dictionary attack, ensure you have a wordlist (e.g., passwords.txt)
   python cracker.py
 
 Project Structure
+
 -hasher.py: Simple utility to convert strings into various hash formats.
+
 -cracker.py: The main logic containing the Wordlist and Cracker classes.
+
 -wordlist.txt: (Optional) Your list of potential passwords for testing.
